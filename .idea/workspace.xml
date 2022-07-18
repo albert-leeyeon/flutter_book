@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="885d6f4d-4c1d-447a-a7cb-87e63876f3d3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/flutter_airbnb/assets/background.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_airbnb/assets/banner.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_airbnb/assets/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_airbnb/assets/p1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_airbnb/assets/p2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_airbnb/assets/p3.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_airbnb/lib/components/common/common_form_field.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_airbnb/lib/components/home/home_body.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_airbnb/lib/components/home/home_body_banner.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_airbnb/lib/components/home/home_body_popular.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_airbnb/lib/components/home/home_body_popular_item.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_airbnb/lib/components/home/home_header.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_airbnb/lib/components/home/home_header_appbar.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_airbnb/lib/components/home/home_header_form.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_airbnb/lib/constants.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_airbnb/lib/main.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_airbnb/lib/pages/home_page.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_airbnb/lib/size.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_airbnb/lib/styles.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/flutter_book.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2C7W2NJvubPlHOaoiP75YvmEjam" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="cidr.known.project.marker" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="885d6f4d-4c1d-447a-a7cb-87e63876f3d3" name="Changes" comment="" />
+      <created>1658153901800</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1658153901800</updated>
+    </task>
+    <servers />
+  </component>
+</project>
